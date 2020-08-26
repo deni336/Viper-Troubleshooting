@@ -1,0 +1,11 @@
+.tree-btn {
+    background-color: gainsboro;
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    color: black;
+    box-shadow: 3px 3px gray;
+    border-radius: 5%;
+}
